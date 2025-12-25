@@ -1,0 +1,367 @@
+headline,label,date
+apple revenue surges 25% beating expectations,1,2024-01-01
+microsoft profit jumps 30% exceeding targets,1,2024-01-02
+google earnings soar 40% above forecasts,1,2024-01-03
+amazon sales skyrocket 35% beating estimates,1,2024-01-04
+netflix growth explodes 50% surpassing expectations,1,2024-01-05
+tesla revenue climbs 45% exceeding targets,1,2024-01-06
+nvidia profit rockets 60% beating forecasts,1,2024-01-07
+meta earnings surge 55% above expectations,1,2024-01-08
+paypal revenue jumps 40% exceeding estimates,1,2024-01-09
+visa profit soars 35% beating targets,1,2024-01-10
+jpmorgan earnings climb 30% above forecasts,1,2024-01-11
+goldman sachs revenue surges 25% exceeding expectations,1,2024-01-12
+intel profit jumps 20% beating estimates,1,2024-01-13
+apple sales increase 15% above targets,1,2024-01-14
+microsoft growth rises 18% exceeding forecasts,1,2024-01-15
+google revenue up 12% beating expectations,1,2024-01-16
+amazon profit grows 14% above targets,1,2024-01-17
+netflix earnings rise 16% exceeding estimates,1,2024-01-18
+tesla sales climb 22% beating forecasts,1,2024-01-19
+nvidia revenue increases 28% above expectations,1,2024-01-20
+meta profit up 19% exceeding targets,1,2024-01-21
+paypal earnings grow 17% beating estimates,1,2024-01-22
+visa revenue rises 13% above forecasts,1,2024-01-23
+jpmorgan profit increases 11% exceeding expectations,1,2024-01-24
+goldman sachs earnings up 9% beating targets,1,2024-01-25
+intel sales climb 7% above estimates,1,2024-01-26
+apple revenue grows 8% exceeding forecasts,1,2024-01-27
+microsoft profit rises 6% beating expectations,1,2024-01-28
+google earnings increase 5% above targets,1,2024-01-29
+amazon sales up 4% exceeding estimates,1,2024-01-30
+netflix profit grows 3% beating forecasts,1,2024-01-31
+tesla revenue rises 2% above expectations,1,2024-02-01
+nvidia earnings increase 1% exceeding targets,1,2024-02-02
+meta sales up 0.5% beating estimates,1,2024-02-03
+paypal revenue grows 0.3% above forecasts,1,2024-02-04
+visa profit rises 0.1% exceeding expectations,1,2024-02-05
+jpmorgan earnings stable beating targets,1,2024-02-06
+goldman sachs revenue flat exceeding estimates,1,2024-02-07
+intel profit unchanged beating forecasts,1,2024-02-08
+apple sales decline 0.1% missing expectations,0,2024-02-09
+microsoft revenue falls 0.5% below targets,0,2024-02-10
+google earnings drop 1% missing estimates,0,2024-02-11
+amazon profit decreases 2% below forecasts,0,2024-02-12
+netflix sales decline 3% missing expectations,0,2024-02-13
+tesla revenue falls 4% below targets,0,2024-02-14
+nvidia earnings drop 5% missing estimates,0,2024-02-15
+meta profit decreases 6% below forecasts,0,2024-02-16
+paypal sales decline 7% missing expectations,0,2024-02-17
+visa revenue falls 8% below targets,0,2024-02-18
+jpmorgan earnings drop 9% missing estimates,0,2024-02-19
+goldman sachs profit decreases 10% below forecasts,0,2024-02-20
+intel sales decline 12% missing expectations,0,2024-02-21
+apple revenue falls 15% below targets,0,2024-02-22
+microsoft earnings drop 18% missing estimates,0,2024-02-23
+google profit decreases 20% below forecasts,0,2024-02-24
+amazon sales decline 25% missing expectations,0,2024-02-25
+netflix revenue falls 30% below targets,0,2024-02-26
+tesla earnings drop 35% missing estimates,0,2024-02-27
+nvidia profit decreases 40% below forecasts,0,2024-02-28
+meta sales decline 45% missing expectations,0,2024-02-29
+paypal revenue falls 50% below targets,0,2024-03-01
+visa earnings drop 55% missing estimates,0,2024-03-02
+jpmorgan profit decreases 60% below forecasts,0,2024-03-03
+goldman sachs sales decline 65% missing expectations,0,2024-03-04
+intel revenue falls 70% below targets,0,2024-03-05
+apple earnings drop 75% missing estimates,0,2024-03-06
+microsoft profit decreases 80% below forecasts,0,2024-03-07
+google sales decline 85% missing expectations,0,2024-03-08
+amazon revenue falls 90% below targets,0,2024-03-09
+netflix earnings drop 95% missing estimates,0,2024-03-10
+tesla profit plummets 100% below forecasts,0,2024-03-11
+nvidia sales crash 50% missing expectations,0,2024-03-12
+meta revenue collapses 45% below targets,0,2024-03-13
+paypal earnings plunge 40% missing estimates,0,2024-03-14
+visa profit tanks 35% below forecasts,0,2024-03-15
+jpmorgan sales plummet 30% missing expectations,0,2024-03-16
+goldman sachs revenue crashes 25% below targets,0,2024-03-17
+intel earnings collapse 20% missing estimates,0,2024-03-18
+apple profit tanks 15% below forecasts,0,2024-03-19
+microsoft sales plunge 10% missing expectations,0,2024-03-20
+google revenue crashes 5% below targets,0,2024-03-21
+amazon earnings collapse 3% missing estimates,0,2024-03-22
+netflix profit tanks 2% below forecasts,0,2024-03-23
+tesla sales plummet 1% missing expectations,0,2024-03-24
+nvidia revenue crashes 0.5% below targets,0,2024-03-25
+meta earnings collapse 0.1% missing estimates,0,2024-03-26
+paypal profit tanks 0.05% below forecasts,0,2024-03-27
+visa sales plummet 0.01% missing expectations,0,2024-03-28
+jpmorgan revenue crashes 0.001% below targets,0,2024-03-29
+goldman sachs earnings collapse 0.0001% missing estimates,0,2024-03-30
+intel profit tanks 0.00001% below forecasts,0,2024-03-31
+apple stock soars after strong earnings report,1,2024-04-01
+microsoft shares jump on revenue beat,1,2024-04-02
+google stock rallies after profit surge,1,2024-04-03
+amazon shares climb on sales growth,1,2024-04-04
+netflix stock rises after subscriber growth,1,2024-04-05
+tesla shares soar on delivery numbers,1,2024-04-06
+nvidia stock jumps on chip demand,1,2024-04-07
+meta shares rally on ad revenue,1,2024-04-08
+paypal stock climbs on payment volume,1,2024-04-09
+visa shares rise on transaction growth,1,2024-04-10
+jpmorgan stock soars on trading revenue,1,2024-04-11
+goldman sachs shares jump on investment banking,1,2024-04-12
+intel stock rallies on chip sales,1,2024-04-13
+apple shares climb on iPhone sales,1,2024-04-14
+microsoft stock rises on cloud growth,1,2024-04-15
+google shares soar on search revenue,1,2024-04-16
+amazon stock jumps on ecommerce growth,1,2024-04-17
+netflix shares rally on content success,1,2024-04-18
+tesla stock climbs on vehicle deliveries,1,2024-04-19
+nvidia shares rise on gaming demand,1,2024-04-20
+meta stock soars on social media growth,1,2024-04-21
+paypal shares jump on digital payments,1,2024-04-22
+visa stock rallies on card transactions,1,2024-04-23
+jpmorgan shares climb on banking services,1,2024-04-24
+goldman sachs stock rises on wealth management,1,2024-04-25
+intel shares soar on processor sales,1,2024-04-26
+apple stock jumps on services revenue,1,2024-04-27
+microsoft shares rally on software sales,1,2024-04-28
+google stock climbs on advertising growth,1,2024-04-29
+amazon shares rise on AWS performance,1,2024-04-30
+netflix stock soars on streaming success,1,2024-05-01
+tesla shares jump on energy business,1,2024-05-02
+nvidia stock rallies on AI demand,1,2024-05-03
+meta shares climb on metaverse investment,1,2024-05-04
+paypal stock rises on mobile payments,1,2024-05-05
+visa shares soar on contactless growth,1,2024-05-06
+jpmorgan stock jumps on consumer banking,1,2024-05-07
+goldman sachs shares rally on trading success,1,2024-05-08
+intel stock climbs on data center sales,1,2024-05-09
+apple shares rise on wearables growth,1,2024-05-10
+microsoft stock soars on enterprise software,1,2024-05-11
+google shares jump on YouTube revenue,1,2024-05-12
+amazon stock rallies on logistics efficiency,1,2024-05-13
+netflix shares climb on international growth,1,2024-05-14
+tesla stock rises on autonomous driving,1,2024-05-15
+nvidia shares soar on cryptocurrency mining,1,2024-05-16
+meta stock jumps on Instagram growth,1,2024-05-17
+paypal shares rally on Venmo success,1,2024-05-18
+visa stock climbs on digital wallet adoption,1,2024-05-19
+jpmorgan shares rise on investment management,1,2024-05-20
+goldman sachs stock soars on private equity,1,2024-05-21
+intel shares jump on 5G technology,1,2024-05-22
+apple stock rallies on App Store revenue,1,2024-05-23
+microsoft shares climb on Azure growth,1,2024-05-24
+google stock rises on Google Cloud,1,2024-05-25
+amazon shares soar on Prime membership,1,2024-05-26
+netflix stock jumps on original content,1,2024-05-27
+tesla shares rally on battery technology,1,2024-05-28
+nvidia stock climbs on data center GPUs,1,2024-05-29
+meta shares rise on WhatsApp monetization,1,2024-05-30
+paypal stock soars on buy now pay later,1,2024-05-31
+visa shares jump on cross border payments,1,2024-06-01
+jpmorgan stock rallies on corporate banking,1,2024-06-02
+goldman sachs shares climb on asset management,1,2024-06-03
+intel stock rises on foundry services,1,2024-06-04
+apple shares soar on Mac sales growth,1,2024-06-05
+microsoft stock jumps on Teams success,1,2024-06-06
+google shares rally on search advertising,1,2024-06-07
+amazon stock climbs on third party sellers,1,2024-06-08
+netflix shares rise on password sharing crackdown,1,2024-06-09
+tesla stock soars on supercharger network,1,2024-06-10
+nvidia shares jump on automotive chips,1,2024-06-11
+meta stock rallies on Reels monetization,1,2024-06-12
+paypal shares climb on crypto services,1,2024-06-13
+visa stock rises on tokenization growth,1,2024-06-14
+jpmorgan shares soar on digital transformation,1,2024-06-15
+goldman sachs stock jumps on Marcus platform,1,2024-06-16
+intel shares rally on AI accelerators,1,2024-06-17
+apple stock climbs on AirPods sales,1,2024-06-18
+microsoft shares rise on LinkedIn growth,1,2024-06-19
+google stock soars on Pixel success,1,2024-06-20
+amazon shares jump on grocery expansion,1,2024-06-21
+netflix stock rallies on gaming initiative,1,2024-06-22
+tesla shares climb on insurance business,1,2024-06-23
+nvidia stock rises on robotics platform,1,2024-06-24
+meta shares soar on virtual reality,1,2024-06-25
+paypal stock jumps on checkout optimization,1,2024-06-26
+visa shares rally on real time payments,1,2024-06-27
+jpmorgan stock climbs on blockchain adoption,1,2024-06-28
+goldman sachs shares rise on sustainable finance,1,2024-06-29
+intel stock soars on quantum computing,1,2024-06-30
+apple shares jump on health services,1,2024-07-01
+microsoft stock rallies on GitHub growth,1,2024-07-02
+google shares climb on Waymo progress,1,2024-07-03
+amazon stock rises on pharmacy business,1,2024-07-04
+netflix shares soar on merchandise sales,1,2024-07-05
+tesla stock jumps on energy storage,1,2024-07-06
+nvidia shares rally on edge computing,1,2024-07-07
+meta stock climbs on business messaging,1,2024-07-08
+paypal shares rise on fraud prevention,1,2024-07-09
+visa stock soars on biometric authentication,1,2024-07-10
+jpmorgan shares jump on AI trading,1,2024-07-11
+goldman sachs stock rallies on ESG investing,1,2024-07-12
+intel shares climb on neuromorphic computing,1,2024-07-13
+apple stock rises on privacy features,1,2024-07-14
+microsoft shares soar on accessibility tools,1,2024-07-15
+google stock jumps on sustainability initiatives,1,2024-07-16
+amazon shares rally on renewable energy,1,2024-07-17
+netflix stock climbs on diversity content,1,2024-07-18
+tesla shares rise on solar roof sales,1,2024-07-19
+nvidia stock soars on climate research,1,2024-07-20
+meta shares jump on mental health features,1,2024-07-21
+paypal stock rallies on financial inclusion,1,2024-07-22
+visa shares climb on digital identity,1,2024-07-23
+jpmorgan stock rises on community development,1,2024-07-24
+goldman sachs shares soar on education programs,1,2024-07-25
+intel stock jumps on STEM initiatives,1,2024-07-26
+apple shares rally on recycling program,1,2024-07-27
+microsoft stock climbs on carbon negative goal,1,2024-07-28
+google shares rise on water conservation,1,2024-07-29
+amazon stock soars on circular economy,1,2024-07-30
+netflix shares jump on carbon neutral production,1,2024-07-31
+tesla stock rallies on battery recycling,1,2024-08-01
+nvidia shares climb on green computing,1,2024-08-02
+meta stock rises on renewable energy commitment,1,2024-08-03
+paypal shares soar on climate action fund,1,2024-08-04
+visa stock jumps on sustainable payments,1,2024-08-05
+jpmorgan shares rally on green bonds,1,2024-08-06
+goldman sachs stock climbs on impact investing,1,2024-08-07
+intel shares rise on energy efficiency,1,2024-08-08
+apple stock soars on supplier responsibility,1,2024-08-09
+microsoft shares jump on accessibility innovation,1,2024-08-10
+google stock rallies on AI ethics,1,2024-08-11
+amazon shares climb on worker safety,1,2024-08-12
+netflix stock rises on content diversity,1,2024-08-13
+tesla shares soar on workplace safety,1,2024-08-14
+nvidia stock jumps on responsible AI,1,2024-08-15
+meta shares rally on content moderation,1,2024-08-16
+paypal stock climbs on financial education,1,2024-08-17
+visa shares rise on fraud protection,1,2024-08-18
+jpmorgan stock soars on cybersecurity,1,2024-08-19
+goldman sachs shares jump on data privacy,1,2024-08-20
+intel stock rallies on supply chain security,1,2024-08-21
+apple shares climb on user privacy,1,2024-08-22
+microsoft stock rises on cloud security,1,2024-08-23
+google shares soar on search privacy,1,2024-08-24
+amazon stock jumps on customer protection,1,2024-08-25
+netflix shares rally on viewer privacy,1,2024-08-26
+tesla stock climbs on driver safety,1,2024-08-27
+nvidia shares rise on gaming safety,1,2024-08-28
+meta stock soars on platform safety,1,2024-08-29
+paypal shares jump on payment security,1,2024-08-30
+visa stock rallies on transaction safety,1,2024-08-31
+jpmorgan shares climb on banking security,1,2024-09-01
+goldman sachs stock rises on investment security,1,2024-09-02
+intel shares soar on chip security,1,2024-09-03
+apple stock jumps on device security,1,2024-09-04
+microsoft shares rally on software security,1,2024-09-05
+google stock climbs on online security,1,2024-09-06
+amazon shares rise on marketplace security,1,2024-09-07
+netflix stock soars on streaming security,1,2024-09-08
+tesla shares jump on vehicle security,1,2024-09-09
+nvidia stock rallies on GPU security,1,2024-09-10
+meta shares climb on social security,1,2024-09-11
+paypal stock rises on digital security,1,2024-09-12
+visa shares soar on payment security,1,2024-09-13
+jpmorgan stock jumps on financial security,1,2024-09-14
+goldman sachs shares rally on wealth security,1,2024-09-15
+intel stock climbs on processor security,1,2024-09-16
+apple shares rise on ecosystem security,1,2024-09-17
+microsoft stock soars on enterprise security,1,2024-09-18
+google shares jump on web security,1,2024-09-19
+amazon stock rallies on ecommerce security,1,2024-09-20
+netflix shares climb on entertainment security,1,2024-09-21
+tesla stock rises on mobility security,1,2024-09-22
+nvidia shares soar on computing security,1,2024-09-23
+meta stock jumps on connection security,1,2024-09-24
+paypal shares rally on money security,1,2024-09-25
+visa stock climbs on card security,1,2024-09-26
+jpmorgan shares rise on banking security,1,2024-09-27
+goldman sachs stock soars on investment security,1,2024-09-28
+intel shares jump on technology security,1,2024-09-29
+apple stock rallies on innovation security,1,2024-09-30
+microsoft shares climb on digital security,1,2024-10-01
+google stock rises on internet security,1,2024-10-02
+amazon shares soar on retail security,1,2024-10-03
+netflix stock jumps on media security,1,2024-10-04
+tesla shares rally on transport security,1,2024-10-05
+nvidia stock climbs on graphics security,1,2024-10-06
+meta shares rise on social security,1,2024-10-07
+paypal stock soars on financial security,1,2024-10-08
+visa shares jump on payment security,1,2024-10-09
+jpmorgan stock rallies on banking security,1,2024-10-10
+goldman sachs shares climb on investment security,1,2024-10-11
+intel stock rises on chip security,1,2024-10-12
+apple shares soar on device security,1,2024-10-13
+microsoft stock jumps on software security,1,2024-10-14
+google shares rally on search security,1,2024-10-15
+amazon stock climbs on marketplace security,1,2024-10-16
+netflix shares rise on streaming security,1,2024-10-17
+tesla stock soars on vehicle security,1,2024-10-18
+nvidia shares jump on computing security,1,2024-10-19
+meta stock rallies on platform security,1,2024-10-20
+paypal shares climb on digital security,1,2024-10-21
+visa stock rises on transaction security,1,2024-10-22
+jpmorgan shares soar on financial security,1,2024-10-23
+goldman sachs stock jumps on wealth security,1,2024-10-24
+intel shares rally on processor security,1,2024-10-25
+apple stock climbs on ecosystem security,1,2024-10-26
+microsoft shares rise on enterprise security,1,2024-10-27
+google stock soars on web security,1,2024-10-28
+amazon shares jump on ecommerce security,1,2024-10-29
+netflix stock rallies on entertainment security,1,2024-10-30
+tesla shares climb on mobility security,1,2024-10-31
+nvidia stock rises on graphics security,1,2024-11-01
+meta shares soar on social security,1,2024-11-02
+paypal stock jumps on financial security,1,2024-11-03
+visa shares rally on payment security,1,2024-11-04
+jpmorgan stock climbs on banking security,1,2024-11-05
+goldman sachs shares rise on investment security,1,2024-11-06
+intel stock soars on technology security,1,2024-11-07
+apple shares jump on innovation security,1,2024-11-08
+microsoft stock rallies on digital security,1,2024-11-09
+google shares climb on internet security,1,2024-11-10
+amazon stock rises on retail security,1,2024-11-11
+netflix shares soar on media security,1,2024-11-12
+tesla stock jumps on transport security,1,2024-11-13
+nvidia shares rally on computing security,1,2024-11-14
+meta stock climbs on platform security,1,2024-11-15
+paypal shares rise on digital security,1,2024-11-16
+visa stock soars on transaction security,1,2024-11-17
+jpmorgan shares jump on financial security,1,2024-11-18
+goldman sachs stock rallies on investment security,1,2024-11-19
+intel shares climb on chip security,1,2024-11-20
+apple stock rises on device security,1,2024-11-21
+microsoft shares soar on software security,1,2024-11-22
+google shares jump on search security,1,2024-11-23
+amazon stock rallies on marketplace security,1,2024-11-24
+netflix shares climb on streaming security,1,2024-11-25
+tesla stock rises on vehicle security,1,2024-11-26
+nvidia shares soar on computing security,1,2024-11-27
+meta shares jump on platform security,1,2024-11-28
+paypal stock rallies on digital security,1,2024-11-29
+visa shares climb on transaction security,1,2024-11-30
+jpmorgan stock rises on financial security,1,2024-12-01
+goldman sachs shares soar on investment security,1,2024-12-02
+intel shares jump on technology security,1,2024-12-03
+apple stock rallies on innovation security,1,2024-12-04
+microsoft shares climb on digital security,1,2024-12-05
+google shares rise on internet security,1,2024-12-06
+amazon stock soars on ecommerce security,1,2024-12-07
+netflix shares jump on media security,1,2024-12-08
+tesla stock rallies on transport security,1,2024-12-09
+nvidia shares climb on computing security,1,2024-12-10
+meta stock rises on platform security,1,2024-12-11
+paypal shares soar on digital security,1,2024-12-12
+visa shares jump on transaction security,1,2024-12-13
+jpmorgan stock rallies on financial security,1,2024-12-14
+goldman sachs shares climb on investment security,1,2024-12-15
+intel stock rises on technology security,1,2024-12-16
+apple shares soar on innovation security,1,2024-12-17
+microsoft shares jump on digital security,1,2024-12-18
+google stock rallies on internet security,1,2024-12-19
+amazon shares climb on retail security,1,2024-12-20
+netflix stock rises on media security,1,2024-12-21
+tesla shares soar on transport security,1,2024-12-22
+nvidia shares jump on graphics security,1,2024-12-23
+meta stock rallies on social security,1,2024-12-24
+paypal shares climb on financial security,1,2024-12-25
+visa stock rises on payment security,1,2024-12-26
+jpmorgan shares soar on banking security,1,2024-12-27
+goldman sachs shares jump on investment security,1,2024-12-28
+intel stock rallies on chip security,1,2024-12-29
+apple shares climb on device security,1,2024-12-30
+microsoft stock rises on software security,1,2024-12-31 
