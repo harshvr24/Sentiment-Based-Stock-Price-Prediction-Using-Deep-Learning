@@ -38,7 +38,7 @@ The project uses a Bayesian CNN model (`bayesian_cnn_model.keras`) that:
 - **Output**: Binary classification (UP/DOWN) with confidence scores
 - **Training Data**: Financial news headlines with labeled price movements
 
-## Model Artifacts & Experiment Results
+### Model Artifacts & Experiment Results
 
 Due to GitHub file size limitations, the following files are not included
 in the repository:
@@ -419,3 +419,4 @@ For questions, issues, or contributions:
 
 
 **Disclaimer**: This tool is for educational and research purposes only. Stock predictions are inherently uncertain and should not be used as the sole basis for investment decisions. Always conduct thorough research and consult with financial advisors before making investment decisions. 
+
